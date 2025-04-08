@@ -19,11 +19,11 @@ My core strengths include:
 
 **Partnership Building:** Facilitating collaboration among diverse stakeholders, from government agencies to NGOs and research institutions, to create coordinated approaches to ocean conservation challenges.
 
-At Duke, I refined my analytical skills under Prof. Xavier Basurto and Prof. Lisa Campbell, focusing on marine governance and social equity in conservation. My research employs innovative methodologies to evaluate intervention effectiveness in global ocean policy contexts.
+At Duke, I refined my analytical skills under Prof. Xavier Basurto and Prof. Lisa Campbell, focusing on marine fisheries and biodiversity governance. My research employs innovative methodologies to evaluate intervention effectiveness in global ocean policy contexts.
 
 As Founding Director of the China Marine Funders Alliance, I coordinated a network of 30+ foundations, tripling investments in ocean conservation (2017-2020). At Oak Foundation, I managed $20+ million in grant portfolios across four continents, developing strategic priorities and ensuring effective implementation.
 
-Based in Switzerland, I am seeking opportunities in conservation program management beginning June/July 2025, with particular interest in roles that leverage my expertise in strategic conservation planning and implementation.
+Based in Switzerland, I am seeking opportunities in conservation program management beginning June/July 2025, with particular interest in roles that leverage my expertise in strategic conservation grantmaking and program implementation.
 
 Feel free to reach out to me at xinyan.lin@duke.edu to discuss potential collaborations.
 
