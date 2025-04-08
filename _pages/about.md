@@ -27,4 +27,3 @@ Based in Switzerland, I am seeking opportunities in conservation program managem
 
 Feel free to reach out to me at xinyan.lin@duke.edu to discuss potential collaborations.
 
-Find my CV here: [CV](../assets/CV.pdf)
