@@ -13,9 +13,9 @@ My core strengths include:
 
 **Strategy Development & Implementation:** Designing comprehensive conservation programs that align stakeholder interests with measurable conservation outcomes.
 
-**Grantmaking Portfolio Management:** Overseeing complex, multi-stakeholder conservation initiatives with rigorous financial oversight and performance tracking.
+**Grantmaking Portfolio Management:** Overseeing complex grantmaking programs with rigorous financial oversight and performance tracking.
 
-**Monitoring, Evaluation & Learning (MEL):** Creating robust frameworks for major organizations including Oak Foundation, Packard Foundation, and WWF China that drive adaptive management and evidence-based decision-making.
+**Monitoring, Evaluation & Learning (MEL):** Creating robust frameworks for major organizations including such as Oak Foundation and WWF that drive adaptive management and evidence-based decision-making.
 
 **Partnership Building:** Facilitating collaboration among diverse stakeholders, from government agencies to NGOs and research institutions, to create coordinated approaches to ocean conservation challenges.
 
