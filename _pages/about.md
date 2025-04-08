@@ -7,25 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am Dr. Xinyan Lin 林 欣砚, a conservation social scientist with a PhD in Marine Science and Conservation from Duke University. My research and professional work focuses on the intersection of social equity, monitoring and evaluation frameworks, and strategic impact assessment in marine conservation. With over 10 years of specialized expertise, I help bridge the gap between conservation science, policy implementation, and measurable outcomes.
+I am an environmental social scientist with 12+ years of experience in marine conservation strategy and program management. With a PhD in Marine Science and Conservation from Duke University (2024), I combine academic rigor with practical experience in designing and implementing effective conservation initiatives globally.
 
-Research Interests
-Ocean equity and social dimensions of global ocean governance
-Monitoring, Evaluation, and Learning (MEL) frameworks for conservation initiatives
-Small-scale fisheries management and commons governance in China
-Philanthropic funding flows and their impact on marine conservation
-Cross-cultural approaches to environmental grantmaking
+My core strengths include:
+**Strategy Development & Implementation:** Designing comprehensive conservation programs that align stakeholder interests with measurable conservation outcomes.
+**Grantmaking Portfolio Management:** Overseeing complex, multi-stakeholder conservation initiatives with rigorous financial oversight and performance tracking.
+**Monitoring, Evaluation & Learning (MEL):** Creating robust frameworks for major organizations including Oak Foundation, Packard Foundation, and WWF China that drive adaptive management and evidence-based decision-making.
+**Partnership Building:** Facilitating collaboration among diverse stakeholders, from government agencies to NGOs and research institutions, to create coordinated approaches to ocean conservation challenges.
 
-Academic Background
-I completed my PhD at Duke University's Nicholas School of the Environment (2018-2024), where my dissertation "Mobilizing Ocean Equity: Global and Chinese Assemblages, Onto-Epistemological Possibilities, and Gongyi Agency" examined the complex interplay between equity considerations and conservation practices. Prior to Duke, I earned a Master in International Affairs from the Graduate Institute Geneva (2013-2015) and a Bachelor of Business Administration from Ritsumeikan Asia Pacific University in Japan (2008-2012).
+At Duke, I refined my analytical skills under Prof. Xavier Basurto and Prof. Lisa Campbell, focusing on marine governance and social equity in conservation. My research employs innovative methodologies to evaluate intervention effectiveness in global ocean policy contexts.
 
-Professional Experience
-My career spans both academic research and practical implementation. As an Associate at Oak Foundation Marine Programme, I managed grant portfolios totaling over $20 million across four continents, focusing on marine plastic pollution, IUU fishing, and small-scale fisheries. I also served as the Founding Director of the China Marine Funders Alliance (2017-2020), where I established a network of over 30 Chinese and international grantmaking foundations, tripling annual investments in China's coastal and ocean conservation.
+As Founding Director of the China Marine Funders Alliance, I coordinated a network of 30+ foundations, tripling investments in ocean conservation (2017-2020). At Oak Foundation, I managed $20+ million in grant portfolios across four continents, developing strategic priorities and ensuring effective implementation.
 
-Current Research and Focus
-My research examines how funding flows impact conservation outcomes, with particular attention to social equity dimensions. My publications investigate equity mobilization at global ocean governance forums, the role of philanthropic foundations in China's marine conservation, and the evolving dynamics of small-scale fishery commons in China.
+Based in Switzerland, I am seeking opportunities in conservation program management beginning June/July 2025, with particular interest in roles that leverage my expertise in strategic conservation planning and implementation.
 
-I'm actively seeking opportunities where I can apply my expertise in MEL frameworks and social dimensions of conservation to help organizations maximize their environmental impact while ensuring social equity considerations are integrated throughout their work.
 Feel free to reach out to me at xinyan.lin@duke.edu to discuss potential collaborations.
 
 Find my CV here: [CV](../assets/CV.pdf)
