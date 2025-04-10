@@ -23,7 +23,7 @@ At Duke, I refined my analytical skills under Prof. Xavier Basurto and Prof. Lis
 
 As Founding Director of the China Marine Funders Alliance, I coordinated a network of 30+ foundations, tripling investments in ocean conservation (2017-2020). At Oak Foundation, I managed $20+ million in grant portfolios across four continents, developing strategic priorities and ensuring effective implementation.
 
-Based in Switzerland, I am seeking opportunities in conservation program management beginning June/July 2025, with particular interest in roles that leverage my expertise in strategic conservation grantmaking and program implementation.
+Based in Switzerland, I am seeking opportunities in conservation program management beginning June/July 2025, with particular interest in roles that leverage my expertise in strategic conservation grantmaking and program implementation. You can find my resume here: https://github.com/dr-lin-xinyan/dr-lin-xinyan.github.io/blob/5bc1c407190e6f7c2408c9e73459696c5150cc42/files/Lin%20CV%202025%20april%20.pdf
 
 Feel free to reach out to me at xinyan.lin@duke.edu to discuss potential collaborations.
 
