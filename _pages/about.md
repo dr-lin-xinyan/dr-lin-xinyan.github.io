@@ -18,7 +18,7 @@ My career spans significant contributions to global marine policy development an
 
 ### 🧭 Policy Analysis & Research
 
-Drawing on my experience with the **UN Convention on Biological Diversity**, **UN Ocean Conference**, and marine governance frameworks, I analyze how equity considerations materialize in global ocean policy interventions, producing actionable insights for policymakers and practitioners.
+Drawing on my experience with the **UN Convention on Biological Diversity**, **UN Ocean Conference**, and other international marine meetings, I analyze how equity considerations materialize in global ocean policy interventions, producing actionable insights for policymakers and practitioners.
 
 <div style="display: flex; justify-content: center; gap: 30px; align-items: flex-end;">
   <!-- 左图 -->
