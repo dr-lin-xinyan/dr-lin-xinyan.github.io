@@ -151,9 +151,9 @@ This work provides valuable insights into how conservation initiatives can bette
 # Current & Future Plans
 
 Based in **Switzerland**, I am seeking opportunities in **conservation program leadership** beginning **June/July 2025**, with particular interest in roles that leverage my expertise in:
-- Strategic planning  
-- Program implementation  
-- Marine policy development
+- Strategic field development
+- Project portfolio management
+- Resource mobilization
 
 I am especially drawn to positions that **bridge international conservation policy with on-the-ground implementation**.
 
