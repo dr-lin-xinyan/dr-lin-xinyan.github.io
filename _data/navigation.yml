@@ -8,15 +8,19 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/ 
+  # - title: "Publications"
+  #   url: /publications/ 
     
-  - title: "CV"  
-    # url: "CV"
-    url: /files/resume.pdf
+  # - title: "CV"  
+  #   # url: "CV"
+  #   url: /files/resume.pdf
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Resume"
+    url: "https://bourbontt.github.io/files/Curriculum_Vitae.pdf"
+    external: true
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
