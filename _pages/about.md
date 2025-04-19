@@ -11,6 +11,7 @@ I am an environmental social scientist specializing in marine conservation gover
 
 My career spans significant contributions to global marine policy development and implementation, from leading collaborative ethnography at major UN conventions to managing multimillion-dollar grant portfolios for international foundations.
 
+
 ---
 
 # Core Expertise
