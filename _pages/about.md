@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an environmental social scientist specializing in marine conservation governance and equity with **12+ years of experience** spanning academia, philanthropy, and international organizations. With a newly completed **PhD in Marine Science and Conservation from Duke University (2024)**, I bring a unique combination of scholarly research expertise and hands-on program management to address complex ocean conservation challenges.
+I am an environmental social scientist specializing in ocean equity with **12+ years of experience** spanning academia, philanthropy, and international organizations. With a newly completed **PhD in Marine Science and Conservation from Duke University (2024)**, I bring a unique combination of scholarly research expertise and hands-on program management to address complex ocean conservation challenges.
 
 My career spans significant contributions to global marine policy development and implementation, from leading collaborative ethnography at major UN conventions to managing multimillion-dollar grant portfolios for international foundations.
 
