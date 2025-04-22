@@ -9,8 +9,7 @@ redirect_from:
 
 I am an environmental social scientist specializing in ocean equity with **12+ years of experience** spanning academia, philanthropy, and international organizations. With a newly completed **PhD in Marine Science and Conservation from Duke University (2024)**, I bring a unique combination of scholarly research expertise and hands-on program management to address complex ocean conservation challenges.
 
-My career spans significant contributions to global marine policy development and implementation, from leading collaborative ethnography at major UN conventions to managing multimillion-dollar grant portfolios for international foundations.
-
+My career encompasses substantial contributions addressing global conservation challenges through multiple lenses. I've developed field-building strategies across diverse marine conservation issues while managing multimillion-dollar conservation portfolios for international foundations. My approach integrates theoretical frameworks from political ecology, political economy, and science and technology studies to design and implement conservation interventions that prioritize both equity and sustainability.
 
 ---
 
@@ -142,9 +141,9 @@ I’ve designed and implemented **MEL frameworks** for major organizations, incl
 
 # Doctoral Research
 
-My doctoral research under **Prof. Xavier Basurto** (now with Stanford) and **Prof. Lisa Campbell** at **Duke University** focused on **mobilizing equity in marine governance**, employing innovative methodologies to evaluate intervention effectiveness in both global and Chinese contexts.
+In my pre-PhD career, I tackled complex challenges including building capacity within local communities, connecting grassroots conservation efforts with international frameworks, and mobilizing resources from culturally diverse funding sources. Under the guidance of my exceptional PhD Committee （**Prof. Xavier Basurto**, **Prof. Lisa Campbell** , Prof. Prasenjit Duara, and Prof. Caroline Goron), I mastered methodological approaches from political ecology, political economy, and science and technology studies to address these multifaceted issues.
 
-This work provides valuable insights into how conservation initiatives can better integrate social equity considerations while achieving environmental goals.
+My dissertation research centered on advancing equity in marine governance, employing innovative methodologies to assess intervention effectiveness across both global and Chinese contexts. This work yielded significant insights into how conservation initiatives can successfully integrate social equity considerations while simultaneously achieving critical environmental objectives.
 
 
 
