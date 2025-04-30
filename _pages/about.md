@@ -9,7 +9,7 @@ redirect_from:
 
 I am an environmental social scientist specializing in ocean equity with **12+ years of experience** spanning academia, philanthropy, and international organizations. With a newly completed **PhD in Marine Science and Conservation from Duke University (2024)**, I bring a unique combination of scholarly research expertise and hands-on program management to address complex ocean conservation challenges.
 
-My career encompasses substantial contributions addressing global conservation challenges through multiple lenses. I've developed field-building strategies across diverse marine conservation issues while managing multimillion-dollar conservation portfolios for international foundations. My approach integrates theoretical frameworks from political ecology, political economy, and science and technology studies to design and implement conservation interventions that prioritize both equity and sustainability.
+My career encompasses substantial contributions addressing global conservation challenges through multiple lenses. I have developed field-building strategies across diverse marine conservation issues while managing multimillion-dollar conservation portfolios for international foundations. My approach integrates theoretical frameworks from political ecology, political economy, and science and technology studies to design and implement conservation interventions that prioritize both equity and sustainability.
 
 ---
 
@@ -135,7 +135,7 @@ I developed robust monitoring systems and ensured effective implementation.
 
 ### 📊 Monitoring, Evaluation & Learning (MEL) Systems
 
-I’ve designed and implemented **MEL frameworks** for major organizations, including **Oak Foundation** and **WWF**, creating evidence-based approaches to adaptive management that enhance program effectiveness and sustainability.
+I have designed and implemented **MEL frameworks** for major organizations, including **Oak Foundation** and **WWF**, creating evidence-based approaches to adaptive management that enhance program effectiveness and sustainability.
 
 ---
 
