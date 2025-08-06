@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an environmental social scientist specializing in ocean equity with **12+ years of experience** spanning academia, philanthropy, and international organizations. With a newly completed **PhD in Marine Science and Conservation from Duke University (2024)**, I bring a unique combination of scholarly research expertise and hands-on program management to address complex ocean conservation challenges.
+I am an environmental social scientist specializing in ocean equity with **12+ years of experience** spanning academia, philanthropy, and international organizations. With a newly completed **PhD in Marine Science and Conservation from Duke University (2024)**, I bring a unique combination of scholarly research expertise and hands-on program management to address complex environmental governance challenges.
 
-My career encompasses substantial contributions addressing global conservation challenges through multiple lenses. I have developed field-building strategies across diverse marine conservation issues while managing multimillion-dollar conservation portfolios for international foundations. My approach integrates theoretical frameworks from political ecology, political economy, and science and technology studies to design and implement conservation interventions that prioritize both equity and sustainability.
+My career encompasses substantial contributions addressing global sustainability challenges through multiple lenses. I have developed field-building strategies across diverse marine conservation issues while managing multimillion-dollar conservation portfolios for international foundations. My approach integrates theoretical frameworks from political ecology, political economy, and science and technology studies to design and implement governance interventions that prioritize both equity and sustainability.
 
 ---
 
@@ -17,7 +17,7 @@ My career encompasses substantial contributions addressing global conservation c
 
 ### 🧭 Policy Analysis & Research
 
-Drawing on my experience with the **UN Convention on Biological Diversity**, **UN Ocean Conference**, and other international marine meetings, I analyze how equity considerations materialize in global ocean policy interventions, producing actionable insights for policymakers and practitioners.
+Drawing on my experience with the collaborative event ethnography at international environmental meetings (e.g. CBD COP 15, UN Ocean Conference), institutional analysis of global small scale fisheries, I study how governance actions can contributeto more equitable outcomes, producing actionable insights for policymakers and practitioners.
 
 <div style="display: flex; justify-content: center; gap: 30px; align-items: flex-end;">
   <!-- 左图 -->
@@ -86,9 +86,9 @@ R: *CMFA Funding Report 2019*
 
 ---
 
-### 🌊 Conservation Field Building
+### 🌊 Field Building
 
-My work at **Duke**, **Oak Foundation**, **WWF China**, and the **China Marine Funders Alliance** demonstrates my ability to design comprehensive conservation strategies to build, bond and configure the field of marine conservation across scales.
+My work at **Duke**, **Oak Foundation**, **WWF China**, and the **China Marine Funders Alliance** demonstrates my ability to design comprehensive  strategies to build, bond and configure the field of ocean and climate change governance across scales.
 
 <div style="display: flex; justify-content: center; gap: 30px; align-items: flex-end;">
   <!-- 左图 -->
@@ -149,15 +149,15 @@ My dissertation research centered on advancing equity in marine governance, empl
 
 # Current & Future Plans
 
-Based in **Switzerland**, I am seeking opportunities in **conservation leadership positions** beginning **June/July 2025**, with particular interest in roles that leverage my expertise in:
+Based in **Switzerland**, I am seeking opportunities in **conservation leadership positions** beginning **Q4 2025 or Q2026**, with particular interest in roles that leverage my expertise in:
 - Strategic field development
 - Project portfolio management
-- Resource mobilization
+- Organizational learning and knowledge management
 
-My professional focus centers on roles that bridge international conservation policy with practical field implementation, creating equitable and sustainable impact through strategic oversight and collaborative engagement.
+My professional focus centers on roles that bridge international environmental policy with practical field implementation, creating equitable and sustainable impact through strategic oversight and collaborative engagement.
 
 ---
 
 ## 📬 Contact
 
-Connect with me at **xinyan.lin@duke.edu** to discuss potential collaborations in advancing equitable and effective marine conservation.
+Connect with me at **xinyan.lin@duke.edu** to discuss potential collaborations in advancing equitable and effective ocean and climate change governance.
