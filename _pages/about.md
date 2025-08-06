@@ -149,7 +149,7 @@ My dissertation research centered on advancing equity in marine governance, empl
 
 # Current & Future Plans
 
-Based in **Switzerland**, I am seeking opportunities in **conservation leadership positions** beginning **Q4 2025 or Q2026**, with particular interest in roles that leverage my expertise in:
+Based in **Switzerland**, I am seeking opportunities in **conservation leadership positions** beginning **Q4 2025 or Q1 2026**, with particular interest in roles that leverage my expertise in:
 - Strategic field development
 - Project portfolio management
 - Organizational learning and knowledge management
