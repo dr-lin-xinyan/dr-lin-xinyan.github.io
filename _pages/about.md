@@ -17,7 +17,7 @@ My career encompasses substantial contributions addressing global sustainability
 
 ### 🧭 Policy Analysis & Research
 
-Drawing on my experience with the collaborative event ethnography at international environmental meetings (e.g. CBD COP 15, UN Ocean Conference), institutional analysis of global small scale fisheries, I study how governance actions can contributeto more equitable outcomes, producing actionable insights for policymakers and practitioners.
+Drawing on my experience with the collaborative event ethnography at international environmental meetings (e.g. CBD COP 15, UN Ocean Conference), institutional analysis of global small scale fisheries, I study how governance actions can contribute to more equitable outcomes, producing actionable insights for policymakers and practitioners.
 
 <div style="display: flex; justify-content: center; gap: 30px; align-items: flex-end;">
   <!-- 左图 -->
@@ -143,14 +143,14 @@ I have designed and implemented **MEL frameworks** for major organizations, incl
 
 In my pre-PhD career, I tackled complex challenges including building capacity within local communities, connecting grassroots conservation efforts with international frameworks, and mobilizing resources from culturally diverse funding sources. Under the guidance of my exceptional PhD Committee （**Prof. Xavier Basurto**, **Prof. Lisa Campbell** , Prof. Prasenjit Duara, and Prof. Caroline Goron), I mastered methodological approaches from political ecology, political economy, and science and technology studies to address these multifaceted issues.
 
-My dissertation research centered on advancing equity in marine governance, employing innovative methodologies to assess intervention effectiveness across both global and Chinese contexts. This work yielded significant insights into how conservation initiatives can successfully integrate social equity considerations while simultaneously achieving critical environmental objectives.
+My dissertation research centered on advancing equity in marine governance, employing innovative methodologies to assess intervention effectiveness across both global and Chinese contexts. This work shed significant lights into how conservation initiatives can successfully integrate social equity considerations while simultaneously achieving critical environmental objectives.
 
 
 
 # Current & Future Plans
 
-Based in **Switzerland**, I am seeking opportunities in **conservation leadership positions** beginning **Q4 2025 or Q1 2026**, with particular interest in roles that leverage my expertise in:
-- Strategic field development
+Based in **Switzerland**, I am seeking opportunities in **environmental philanthropy** beginning **Q4 2025 or Q1 2026**, with particular interest in roles that leverage my expertise in:
+- Strategy development
 - Project portfolio management
 - Organizational learning and knowledge management
 
